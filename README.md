@@ -1,6 +1,8 @@
 
-# To do list
->particle de explosão em vez de simplesmente morrer (enhancement)
->hitar não transfere a tnt (erro)
->não limpa inventário (erro)
->...
+## to do list
+
+| Changes   | Type       | Desc                           |
+| :---------- | :--------- | :---------------------------------- |
+| `explosion particle` | `enhancement` | explosion effect instead just dying. |
+| `hitting don't transfere the tnt` | `error` | don't work the mainly function. |
+| `inventory "uncleanning"` | `error` | the inventory doesn't clean after dying. |
