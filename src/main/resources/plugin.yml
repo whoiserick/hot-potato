@@ -1,0 +1,10 @@
+name: BatatinhaQuente
+version: 1.0
+main: whois.erick.Main
+author: eric.ka
+description: Um minigame de Batatinha Quente para Minecraft.
+
+commands:
+  startbatatinha:
+    description: Inicia o minigame Batatinha Quente.
+    usage: /startbatatinha
